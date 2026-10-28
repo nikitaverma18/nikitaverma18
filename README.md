@@ -30,10 +30,10 @@
 
 ### 🚀 Featured Projects
 
-- 🌦️ **Weather Explorer** — Weather information application.
-- 📔 **AI-Powered Journal App** — Journal application with sentiment analysis.
-- 🧭 **Dantewada Tourism Booking** — Tourism and booking project.
 - 📊 **GitHub Dashboard** — Dashboard for GitHub information.
+- 📔 **AI-Powered Journal App** — Journal application with sentiment analysis.
+- 🌦️ **Weather Explorer** — Weather information application.
+- 🧭 **Dantewada Tourism Booking** — Tourism and booking project.
 - 🌍 **Country Explorer** — Explore country information.
 - 💼 **My Portfolio** — Personal portfolio website.
 
